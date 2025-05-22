@@ -216,4 +216,19 @@ footer {
     .form-group button {
         align-self: flex-start;
     }
+}
+
+.warning-box {
+    background-color: #fff3cd;
+    border: 1px solid #ffeeba;
+    border-radius: 8px;
+    margin: 15px 0;
+    padding: 12px 15px;
+}
+
+.warning-text {
+    color: #856404;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
 } 
