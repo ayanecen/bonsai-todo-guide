@@ -49,11 +49,27 @@
 1. リポジトリをクローン or ダウンロード
 2. `index.html` をブラウザで開く
 
+## 👩‍💻 開発者向け情報
+
+### 開発環境のセットアップ
+
+1. このリポジトリをクローン：`git clone https://github.com/ayanecen/bonsai-todo-guide.git`
+2. developブランチで開発：`git checkout develop`
+3. 変更を加えたらcommit：`git commit -m "変更内容の説明"`
+4. リモートリポジトリにpush：`git push origin develop`
+5. プルリクエストを作成して変更をmasterブランチにマージ
+
+### コーディング規約
+
+- インデントはスペース2つ
+- 関数名・変数名はキャメルケース（例：`createTodoList`）
+- コメントは日本語で記述
+
 ## 🙏 謝辞
 
 このアプリは盆栽愛好家の皆様からのフィードバックを元に開発されています。
 情報提供にご協力いただいた方々に感謝いたします。
 
-## �� ライセンス
+## 📝 ライセンス
 
 MIT License 
